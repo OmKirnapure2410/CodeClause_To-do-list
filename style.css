@@ -1,0 +1,49 @@
+body {
+    background-image: url("https://wallpaperaccess.com/full/1167987.jpg");
+    background-size: cover;
+    font-family: Arial, sans-serif;
+    font-family: Arial, sans-serif;
+  }
+  
+  #container {
+    margin: 20px auto;
+    width: 400px;
+    background-color: rgba(106, 191, 241, 0.8);
+    padding: 20px;
+  }
+  
+  h2 {
+    text-align: center;
+  }
+  
+  input[type="text"] {
+    width: 300px;
+    padding: 5px;
+  }
+  
+  button {
+    padding: 5px 10px;
+    margin-left: 10px;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    display: flex;
+    align-items: center;
+    margin-bottom: 5px;
+  }
+  
+  .checkbox {
+    margin-right: 10px;
+  }
+  
+  .delete {
+    color: red;
+    margin-left: 10px;
+    cursor: pointer;
+  }
+  
